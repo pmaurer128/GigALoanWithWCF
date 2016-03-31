@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="GigALoan_Service.SPRT_Service" CodeBehind="SPRT_Service.svc.cs" %>
